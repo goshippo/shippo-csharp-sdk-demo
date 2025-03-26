@@ -1,6 +1,4 @@
-# Shippo C# SDK Demo
-
-
+# <img src="https://docs.goshippo.com/images/Logo.png" width="30" alt="Shippo logo"> # Shippo C# SDK Demo
 
 This is a sample project that demonstrates how to use the Shippo C# SDK.
 
